@@ -116,7 +116,7 @@ anthony.forward(1000)
 
 ###############################################################################
 #
-# TODO: 4.
+# Done.
 #   Add a few more line of your own code to make one of the
 #   existing SimpleTurtles move some more and/or have different
 #   characteristics.
